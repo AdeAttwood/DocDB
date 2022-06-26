@@ -1,0 +1,21 @@
+{
+  "name": "@adeattwood/docdb-core",
+  "version": "1.0.0",
+  "moduel": true,
+  "description": "The core package",
+  "main": "lib/index.js",
+  "author": "Ade Attwood",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "level": "^8.0.0"
+  }
+}

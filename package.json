@@ -1,0 +1,12 @@
+{
+  "name": "@adeattwood/docdb",
+  "version": "1.0.0",
+  "description": "A nodejs document database",
+  "main": "index.js",
+  "author": "Ade Attwood",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
